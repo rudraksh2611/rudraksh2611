@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **workrsb2611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IlZxw1P3jWwO--NjmB_wqQVNUf0Y22F6/view?usp=share_link](https://drive.google.com/file/d/1IlZxw1P3jWwO--NjmB_wqQVNUf0Y22F6/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SrNOeloLQVgBnof8vFZkiXmwU8fiSjpf/view?usp=share_link)
 
 - ⚡ Fun fact **They call me as RDX 😂**
 
