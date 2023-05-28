@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SkAI - Voice Command Assistant which works on OpenAI**
 
-- 🌱 I’m currently learning ** DSA (C++) and mainly "How to be Good Person 😊"**
+- 🌱 I’m currently learning ** DSA (C++) and "How to be Good Person 😊"**
 
 - 👯 I’m looking to collaborate on **Microsoft Made & Code**
 
