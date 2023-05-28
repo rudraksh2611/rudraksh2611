@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/rsbrudrax" target="blank"><img src="https://img.shields.io/twitter/follow/rsbrudrax?logo=twitter&style=for-the-badge" alt="rsbrudrax" /></a> </p>
 
-- 🔭 I’m currently working on **SkAI - Voice Command Assistant with Chat GPT and Bing API**
+- 🔭 I’m currently working on **SkAI - Voice Command Assistant which works on OpenAI**
 
-- 🌱 I’m currently learning **DSA (C++), Microsoft Learn Program, Python etc**
+- 🌱 I’m currently learning ** DSA (C++) and mainly "How to be Good Person 😊"**
 
 - 👯 I’m looking to collaborate on **Microsoft Made & Code**
 
-- 💬 Ask me about **Drones and Open AI**
+- 💬 Ask me about -> **Drones and Open AI and Career Guidance**
 
-- 📫 How to reach me **workrsb2611@gmail.com**
+- 📫 How to reach me -> **workrsb2611@gmail.com**
 
 - 📄 Know about my experiences ->  [Resume](https://drive.google.com/file/d/1SrNOeloLQVgBnof8vFZkiXmwU8fiSjpf/view?usp=share_link)
 
-- ⚡ Fun fact **They call me as RDX 😂**
+- ⚡ Fun Fact **They call me as RDX 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
