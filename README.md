@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://rishavchanda.io)
 <h1 align="center">Namaste🙏,I'm Rudraksh Singh Bhadauria</h1>
-<h3 align="center">A Impassioned Jr.Software Developer Engineer and Upcomming Influencer</h3>
+<h3 align="center">FRT Intern @ Microsoft || Ex SWE Intern @ Xero Tech || Campus Ambassador of Coding Ninja's || Ex Intern @ IIT Roorkee || 13 Level on Microsoft Learn Platf. || Member of GDSC</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraksh2611&label=Profile%20views&color=0e75b6&style=flat" alt="rudraksh2611" /> </p>
