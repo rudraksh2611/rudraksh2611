@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rsbrudrax" target="blank"><img src="https://img.shields.io/twitter/follow/rsbrudrax?logo=twitter&style=for-the-badge" alt="rsbrudrax" /></a> </p>
 
-- 🔭 I’m currently working on **SkAI - Voice Command Assistant which works on OpenAI**
+- 🔭 I’m currently working on **Nano Drone named as Night Hawk**
 
-- 🌱 I’m currently learning ** DSA (C++) and "How to be Good Person 😊"**
+- 🌱 I’m currently learning **Artificial and Intelligence 😊**
 
 - 👯 I’m looking to collaborate on **Microsoft Made & Code**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me -> **workrsb2611@gmail.com**
 
-- 📄 Know about my experiences ->  [Resume](https://drive.google.com/file/d/1SrNOeloLQVgBnof8vFZkiXmwU8fiSjpf/view?usp=share_link)
+- 📄 Know about my experiences ->  [Resume](https://drive.google.com/file/d/1V1eptpPKm6BjVr4vpZo4bTa4GTrmzRLc/view?usp=drive_link)
 
 - ⚡ Fun Fact **They call me as RDX 😂**
 
