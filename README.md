@@ -1,6 +1,6 @@
 ![logo](210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# 💫 About Me:
+# 💫 About Me
 🔭 I used to work at D.R.D.O. as Artificial Intelligence Research Intern <br><br>🌱 I’m currently learning DSA (C++), Python  and Machine Learning<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>💬 Ask me about Software Development, Tech Career Guidance and Drones.<br><br>📫 How to reach me workrsb2611@gmail.com<br><br>⚡ Fun fact They call me as RDX 😂
 
 
