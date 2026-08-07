@@ -53,7 +53,7 @@
 <a href="#experience">Experience</a> &nbsp;•&nbsp;
 <a href="#research">Patents & Research</a> &nbsp;•&nbsp;
 <a href="#stats">Analytics</a> &nbsp;•&nbsp;
-<a href="#snake">Contributions</a> &nbsp;•&nbsp;
+<a href="#snake">Contribution Graph</a> &nbsp;•&nbsp;
 <a href="#projects">Projects</a> &nbsp;•&nbsp;
 <a href="#dsa">DSA</a> &nbsp;•&nbsp;
 <a href="#honors">Honors</a> &nbsp;•&nbsp;
@@ -345,61 +345,46 @@ timeline
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudraksh2611&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksh2611&hide_border=true&stroke=0000&background=0D1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudraksh2611&theme=github_dark" alt="GitHub Stats"/>
+  <img width="45%" src="https://streak-stats.demolab.com/?user=rudraksh2611&hide_border=true&background=0D1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh2611&layout=compact&langs_count=8&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-  <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudraksh2611&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudraksh2611&theme=github_dark" alt="Top Languages"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudraksh2611&theme=github_dark" alt="Most Commit Language"/>
 
-</div>
+  <br/><br/>
 
-<details>
-<summary><b>🔍 Deeper breakdown (click to expand)</b></summary>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudraksh2611&theme=github_dark" alt="Profile Details"/>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudraksh2611&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudraksh2611&theme=github_dark" alt="Profile Details"/>
-
-  <br/>
-
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudraksh2611&theme=github_dark" alt="Repos per Language"/>
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudraksh2611&theme=github_dark" alt="Most Commit Language"/>
-
-  <br/>
-
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudraksh2611&theme=github_dark" alt="Stats"/>
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudraksh2611&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
-
-</details>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudraksh2611&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </div>
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- ══════════════════════ SNAKE ══════════════════════ -->
+<!-- ══════════════════════ CONTRIBUTIONS ══════════════════════ -->
 
 <a name="snake"></a>
 
-## 🐍 Watch My Contributions Get Eaten
+## 🌱 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudraksh2611/rudraksh2611/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudraksh2611/rudraksh2611/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/rudraksh2611/rudraksh2611/output/github-contribution-grid-snake.svg"/>
-  </picture>
+
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudraksh2611&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&area_color=00c6ff&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days&radius=10" alt="Activity Graph"/>
+
+  <br/><br/>
+
+  <b>🗓️ Full Contribution Grid</b>
+
+  <br/><br/>
+
+  <img width="97%" src="https://ghchart.rshah.org/00c6ff/rudraksh2611" alt="Contribution Grid"/>
+
 </div>
 
 <div align="right"><a href="#top">⬆️ back to top</a></div>
@@ -412,23 +397,87 @@ timeline
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Replace REPO-ONE … REPO-FOUR with your real repository names -->
-<a href="https://github.com/rudraksh2611/REPO-ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudraksh2611&repo=REPO-ONE&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/rudraksh2611/REPO-TWO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudraksh2611&repo=REPO-TWO&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/rudraksh2611/REPO-THREE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudraksh2611&repo=REPO-THREE&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/rudraksh2611/REPO-FOUR">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudraksh2611&repo=REPO-FOUR&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
-</a>
+### 🛰️ DRISHTI 2.0
+**AI-Powered Drone Detection System**
+
+Detects unauthorised drones in restricted airspace in real time, using **YOLOv11** trained on a custom **Raptor 4.0** drone dataset.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00c6ff?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/rudraksh2611/DRISHTI-2.O)
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ SHIELD
+**Heart Attack Risk Prediction**
+
+The ML system behind my published paper, *Advanced Heart Attack Risk Prediction Using Stacked Hybrid Machine Learning*.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Published](https://img.shields.io/badge/📄%20Published%20Research-00c6ff?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/rudraksh2611/SHIELD)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ BOLT
+**Electricity Consumption & Anomaly Detection**
+
+Forecasts household electricity usage and flags anomalous consumption patterns in the time series.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-00c6ff?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-00c6ff?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/rudraksh2611/BOLT)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Stock Navigator
+**Future Stock Insights using LSTM**
+
+An LSTM price-prediction model built on INFOSYS market data — born from mixing an ML summer break with an investing habit.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-00c6ff?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/rudraksh2611/Stock_Navigator-Future_Stock_Insights_using_LSTM)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗂️ All public repositories (click to expand)</b></summary>
 
 <br/>
+
+| Project | What it does | Language |
+|---|---|---|
+| [**DRISHTI-2.O**](https://github.com/rudraksh2611/DRISHTI-2.O) | AI-powered drone detection with YOLOv11 on a custom Raptor 4.0 dataset | `Python` |
+| [**SHIELD**](https://github.com/rudraksh2611/SHIELD) | Heart attack risk prediction — basis of my published paper | `Jupyter Notebook` |
+| [**BOLT**](https://github.com/rudraksh2611/BOLT) | Household electricity consumption prediction & anomaly detection | `Jupyter Notebook` |
+| [**Stock_Navigator**](https://github.com/rudraksh2611/Stock_Navigator-Future_Stock_Insights_using_LSTM) | LSTM-based stock price forecasting on INFOSYS data | `Jupyter Notebook` |
+| [**Victus**](https://github.com/rudraksh2611/Victus) | *(add a description on GitHub — see setup note)* | `Python` |
+| [**IBCRS**](https://github.com/rudraksh2611/IBCRS) | *(add a description on GitHub — see setup note)* | `HTML` |
+| [**FRT_project3**](https://github.com/rudraksh2611/FRT_project3) | Educational front-end website, built during the FRT internship | `HTML` |
+
+</details>
+
+<div align="center">
 
 <a href="https://github.com/rudraksh2611?tab=repositories">
   <img src="https://img.shields.io/badge/See%20All%20Repositories-00c6ff?style=for-the-badge&logo=github&logoColor=white"/>
@@ -477,23 +526,24 @@ Vessel trajectory forecasting on 20,000+ vessels using anomaly detection + HDBSC
 
 <a name="dsa"></a>
 
-## 🧠 DSA Grind — 800+ Problems in C++
+## 🧠 DSA Grind
 
 <div align="center">
 
-  <!-- Replace YOUR_LEETCODE_USERNAME below -->
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+<h3>
 
-  <br/><br/>
+`800+` problems solved in **C++**
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.naukri.com/code360/profile/YOUR_CODE360_USERNAME"><img src="https://img.shields.io/badge/Code360%20by%20Coding%20Ninjas-FF6600?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</h3>
 
-  <br/><br/>
+<img src="https://img.shields.io/badge/Problems%20Solved-800%2B-00c6ff?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Certified-GFG%20DSA%20Workshop-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
-  <sub>Solved across <b>LeetCode</b>, <b>Code360 by Coding Ninjas</b> and <b>GeeksforGeeks</b> — plus a GFG DSA workshop certification.</sub>
+<br/><br/>
+
+Solved consistently across **LeetCode**, **Code360 by Coding Ninjas**, and **GeeksforGeeks** —
+<br/>arrays and strings through graphs, DP, and tree algorithms.
 
 </div>
 
@@ -624,22 +674,37 @@ I'm always up for a conversation about **AI at the edge, drones, research, or wh
         Note: your old README had it as `[logo](...)` — a LINK, not an image.
         The `!` (or an <img> tag, as used here) is what makes it render.
 
-     3) PLACEHOLDERS TO REPLACE
-        • Featured Projects → REPO-ONE / REPO-TWO / REPO-THREE / REPO-FOUR
-          (exact repo names, case-sensitive). Delete the block if you'd rather
-          not pin anything yet.
+     3) WHY YOUR WIDGETS WERE BLANK  (fixed — here's what happened)
+        I tested every image URL. Two hosting services are down, and they were
+        powering everything you couldn't see:
+
+          github-readme-stats.vercel.app   → HTTP 503  (service down)
+              ...was powering: Stats card, Top Languages, AND all 4 project pins
+          github-profile-trophy.vercel.app → HTTP 402  (Vercel quota exhausted)
+              ...was powering: the Trophies row
+
+        Verified working, so the README now uses these instead:
+          github-profile-summary-cards.vercel.app  → 200  (stats + languages)
+          streak-stats.demolab.com                 → 200  (streak)
+          github-readme-activity-graph.vercel.app  → 200  (activity graph)
+          ghchart.rshah.org                        → 200  (contribution grid)
+
+        Nothing was wrong with your username — github.com/rudraksh2611 is fine.
+
+     4) PLACEHOLDERS TO REPLACE
         • Mapster card → add a one-liner and a link when it's public.
-        • DSA section → YOUR_LEETCODE_USERNAME, YOUR_GFG_USERNAME,
-          YOUR_CODE360_USERNAME, YOUR_CF_HANDLE. Delete platforms you don't use.
+        • Two of your repos have NO description on GitHub, so the index table
+          says so: **Victus** (Python) and **IBCRS** (HTML). Add a one-line
+          description on each repo page, then update the table.
         • Patents line — if any of the 5 are granted/published, add the numbers
           or titles; specifics land much harder than a count.
-        • Publication — add a DOI / journal link for the heart-attack paper if
-          you have one.
+        • Publication — add a DOI / journal link for the heart-attack paper.
+          SHIELD is already cross-linked to it in Featured Projects.
         • Skill % bars in the Tech Stack collapsible are estimates from your
           profile — tune them.
         • "Productive Time" card is set to utcOffset=5.5 (IST).
 
-     4) THINGS I INFERRED — VERIFY BEFORE PUSHING
+     5) THINGS I INFERRED — VERIFY BEFORE PUSHING
         • Tech-stack badges for ROS, Raspberry Pi, Arduino, LangChain and
           Hugging Face were added based on your drone/edge-AI/GenAI work.
           Remove any you haven't actually used — a wrong badge is worse than
@@ -650,7 +715,21 @@ I'm always up for a conversation about **AI at the edge, drones, research, or wh
         • Class XII end year taken as 2022 (your profile lists the range oddly
           as 2007–2022, which looks like full schooling, not just XII).
 
-     5) ENABLING THE 🐍 SNAKE
+     6) OPTIONAL: THE 🐍 SNAKE ANIMATION
+        I REMOVED the snake from the README because it was rendering as an
+        empty box — it needs a GitHub Action to generate the images first, and
+        that Action had never run, so the file it points at didn't exist.
+        The "Contribution Graph" section now uses two images that work
+        immediately instead.
+
+        If you still want the snake, run the Action below ONCE, then paste this
+        block back into the Contribution Graph section:
+
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudraksh2611/rudraksh2611/output/github-contribution-grid-snake-dark.svg"/>
+              <img alt="snake" src="https://raw.githubusercontent.com/rudraksh2611/rudraksh2611/output/github-contribution-grid-snake.svg"/>
+            </picture>
+
         Create `.github/workflows/snake.yml` in your profile repo:
 
         ------------------------------------------------------------------
@@ -692,19 +771,38 @@ I'm always up for a conversation about **AI at the edge, drones, research, or wh
         Until that first run completes, the snake section shows broken images —
         expected, not a mistake in the README.
 
-     6) RE-SKINNING THE COLOURS
-        Everything uses #00c6ff (accent) and #0072ff (secondary).
-        Find-and-replace "00c6ff" and "0072ff" to re-theme the whole page.
+     7) THE PERMANENT FIX FOR FLAKY WIDGETS  (recommended, ~5 minutes)
+        Every one of these cards runs on someone else's free Vercel account,
+        which is exactly why they 503 and 402. Deploy your OWN instance and
+        they never break again:
 
-     7) IF A WIDGET STOPS LOADING
-        • Streak card runs on a free host that occasionally naps. Swap
+          a. Go to  github.com/anuraghazra/github-readme-stats
+          b. Click "Deploy to Vercel" (top of the README), sign in with GitHub
+          c. Vercel gives you a URL like  rsb-stats.vercel.app
+          d. Find-and-replace in your README:
+                 github-readme-stats.vercel.app  →  rsb-stats.vercel.app
+
+        Same deal for trophies via github.com/ryo-ma/github-profile-trophy.
+        Once self-hosted, you can restore the classic stats + trophy cards:
+
+            <img src="https://YOUR-INSTANCE.vercel.app/api?username=rudraksh2611&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
+            <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=rudraksh2611&layout=compact&langs_count=8&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117"/>
+            <img src="https://YOUR-TROPHY-INSTANCE.vercel.app/?username=rudraksh2611&theme=algolia&no-frame=true&no-bg=true&column=7"/>
+
+     8) IF SOMETHING STILL LOOKS BLANK
+        • GitHub proxies every image through its "camo" cache. If a service was
+          down when you first pushed, GitHub may keep serving the broken cached
+          copy for a while — hard-refresh (Ctrl+F5) before assuming it's broken.
+        • Streak card has a second working host if demolab naps:
               https://github-readme-streak-stats.herokuapp.com/...
-          →   https://streak-stats.demolab.com/...
           (keep everything after the "?" identical)
         • The mermaid timeline renders natively on GitHub. If it ever fails,
           delete that ```mermaid block — nothing else depends on it.
+        • Quick way to test any widget yourself: paste the image URL straight
+          into a browser tab. If it doesn't load there, it won't load in the
+          README either — that's the service, not your markdown.
 
-     8) OPTIONAL ADD-ONS
+     9) OPTIONAL ADD-ONS
         • Spotify now-playing  → github.com/kittinan/spotify-github-profile
         • Auto-pull blog posts → github.com/gautamkrishnar/blog-post-workflow
         • WakaTime coding time → github.com/anmol098/waka-readme-stats
