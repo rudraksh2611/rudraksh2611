@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### 🧭 Quick Navigation
+### 🧭 Quick Navigation:
 
 <a href="#about">About</a> &nbsp;•&nbsp;
 <a href="#stack">Tech Stack</a> &nbsp;•&nbsp;
