@@ -138,21 +138,6 @@ Affordable voice-enabled home automation: a smart switchboard with manual and Wi
 
 <br/>
 
-## 📊 GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudraksh2611&theme=github_dark" alt="GitHub stats"/>
-<img width="45%" src="https://streak-stats.demolab.com/?user=rudraksh2611&hide_border=true&background=0D1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://ghchart.rshah.org/00c6ff/rudraksh2611" alt="Contribution graph"/>
-
-</div>
-
-<br/>
-
 ## 🏅 Recognition
 
 🥇 **UG Chanakya Fellowship** &nbsp;·&nbsp; 💰 **SEED Fund** selected project &nbsp;·&nbsp; 🥈 **2nd Prize**, Agripreneur Pitching &nbsp;·&nbsp; 🧠 **Amazon ML Summer School '24** &nbsp;·&nbsp; 📜 Letters of Recommendation from **DRDO** and **Cognizance, IIT Roorkee**
